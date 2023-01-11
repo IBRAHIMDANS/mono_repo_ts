@@ -1,0 +1,11 @@
+{
+  "name": "@mono_repo_ts/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Ibrahima DANSOKO",
+  "license": "ISC"
+}

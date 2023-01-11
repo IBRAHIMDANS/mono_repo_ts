@@ -1,0 +1,18 @@
+{
+  "name": "mono_repo_ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "author": "Ibrahima DANSOKO",
+  "license": "ISC",
+  "workspaces": [
+    "packages/core",
+    "packages/web",
+    "packages/cli"
+  ],
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
