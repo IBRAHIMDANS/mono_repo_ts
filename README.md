@@ -1,4 +1,4 @@
-# Example TypeScript monorepo using NPM workspaces
+# TypeScript Project monorepo using NPM workspaces
 
 An example project that uses NPM workspaces to create a Node.js TypeScript monorepo.
 
